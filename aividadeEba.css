@@ -1,0 +1,90 @@
+* {
+
+    scroll-behavior: smooth;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: "Teko", sans-serif;
+}
+
+
+div>p {
+    padding: 10px;
+    font-size: larger;
+    height: 100px;
+    width: 50vw;
+    margin: 10px 20px 0px 50px;
+}
+
+h1 {
+    font-family: "Bungee Tint", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    padding-top: 80px;
+}
+
+h2 {
+    margin: 60px ;
+    font-style: oblique;
+    color: rgb(255, 255, 255);
+}
+
+.Comeco {
+    width: 100vw;
+    height: 30vh;
+    background-color: #7A2A3D;
+
+}
+
+.navegacao {
+    text-align: center;
+    padding: 30px 0px 0px 0px;
+}
+
+.box2 {
+    display: flex;
+    width: 100vw;
+    height: 40vh;
+    background-color: #F7E7C3;
+}
+
+.box3 {
+    width: 100vw;
+    height: 110vh;
+    background-color: #4A5E3C;
+    display: flex;
+}
+
+
+.hamburguerIMG {
+    width: 40pw;
+    height: 400ph;
+    margin: 50px;
+}
+
+.box4 {
+    background-color: #927a45be;
+    width: 100vw;
+    height: 20vh;
+}
+.agoravai{
+    font-style: oblique;
+}
+main>div>p{
+    font-family: "Teko", sans-serif;
+    color: aliceblue;
+    padding: auto;
+}
+
+ul{
+    padding: 100px 0px 0px 20px;
+    text-decoration: none;
+}
